@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
+url: ghqls2003/new_remember # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /new_remember # the subpath of your site, e.g. /blog
 title: FOS Memories
 description: "Simple Theme"
 keywords: 'jekyll,theme,gem-based,blog'
