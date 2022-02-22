@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: ghqls2003/new_remember # the base hostname & protocol for your site, e.g. http://example.com
+url: https://github.com/ghqls2003 # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /new_remember # the subpath of your site, e.g. /blog
 title: FOS Memories
 description: "Simple Theme"
