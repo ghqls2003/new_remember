@@ -13,6 +13,35 @@ redirect_from:
 * Kramdown table of contents
 {:toc .toc}
 
+# 2018~2019
+
+~~~
+2018~2019 someday
+~~~
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/2018_gyemyung.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/2018_gyemyung.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/2018_jjock.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/2018_jjock.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/2018_jjock2.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/2018_jjock2.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/2019_jjock.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/2019_jjock.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/2019_some.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/2019_some.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/someday.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/someday.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+ 
 # 2020
 
 ~~~
@@ -64,10 +93,29 @@ redirect_from:
 # 2021
 
 ~~~
+2021년 김민찬 텔레비 출연
+~~~
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/minchantv.png">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/minchantv.png" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+~~~
 2021년 4월 영덕 강구
 ~~~
 <a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/gang1.jpg">
 <img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/gang1.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/gang2.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/gang2.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/gang3.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/gang3.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/gang4.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/gang4.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
 </a>
   
 ~~~
@@ -81,10 +129,26 @@ redirect_from:
 <img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/goo2.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
 </a>
   
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/goo3.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/goo3.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/goo4.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/goo4.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
 ~~~
 2021년 11월 대구 번개
 ~~~
 <a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/pri1.jpg">
 <img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/pri1.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/pri2.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/pri2.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
+</a>
+  
+<a class="post-image" href="{{site.baseurl}}/assets/images/picture/after/pri3.jpg">
+<img itemprop="image" data-src="{{site.baseurl}}/assets/images/picture/after/pri3.jpg" src="{{site.baseurl}}/assets/javascripts/unveil/loader.gif" alt="왜안떠" />
 </a>
   
