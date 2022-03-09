@@ -18,40 +18,45 @@
     <script>
         function check(){
             var pw = prompt("비밀번호를 입력하시기 바랍니다.", "");
+            var log = document.getElementById("openHack");
             if(pw == "sun2010"){
                 alert("확인되었습니다.");
                 location.href="{{ site.paths.blog | relative_url }}"
             }else{
-                alert("비밀번호가 틀렸습니다.");
+                alert("비밀번호가 틀렸습니다. 무언가 실행됩니다.");
+                document.getElementById("openHack").click();
+
             }
         }
-    </script>
+        </script>
+    <script src="{{ site.baseurl }}/assets/javascripts/jokehack.js"></script>
 </head>
 
 <body>
     {% if site.google_tag_manager %}
-        {% include common/gtm-body.html %}
+    {% include common/gtm-body.html %}
     {% endif %}
-
+    
     <ul id="menu">
         <li data-menuanchor="bio"><a href="#bio">Biography</a></li>
         <li data-menuanchor="social"><a href="#social">Social Links</a></li>
     </ul>
-
+    
     <div id="section0" class="section" data-name="bio">
-
+        
         {% include common/notices.html %}
-
+        
         <div class="headings animated fadeInLeft">
             <h1>Full Of Sunshine</h1>
             <h2>{{site.author.name}}</h2>
         </div>
         <a class="btn-continue animated bounce" title="{{ site.data.i18n[site.lang].more }}" href="#social"></a>
     </div>
-
+    
     <div id="section1" class="section" data-name="social">
         <h1 class="animated hidden">
             <a id="blog_enter1" class="btn-enter btn-light" onclick="check()">Enter Memories</a>
+            <p id="openHack"></p>
         </h1>
     </div>
     {% include home/scripts.html %}
