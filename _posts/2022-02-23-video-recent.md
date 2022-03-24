@@ -50,3 +50,8 @@ redirect_from:
 2022년 2월 라이딩 및 설날
 ~~~
 <iframe width="889" height="667" src="https://www.youtube.com/embed/av7mWQ9GgZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+~~~
+2022년 2월 라이딩 및 설날
+~~~
+<iframe width="726" height="408" src="https://www.youtube.com/embed/cfeCpMptLGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
