@@ -5,7 +5,7 @@ description: "after 2016 Picture"
 categories: [picture]
 tags: [picture, after2016_Picture]
 redirect_from:
-  - /2022/03/27/
+  - /2022/03/26/
 ---
 
 > After 2016 seq Picture, Estimated Year.
