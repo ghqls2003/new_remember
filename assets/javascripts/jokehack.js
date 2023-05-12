@@ -33,7 +33,7 @@ function openHacking(){
     target.innerHTML = `
         <div class="wrap" style="width: 85%; margin-left: auto;margin-right: auto; margin-top: 5rem;">
             <div style="text-align:center; margin-bottom: 5rem;">
-                <h2>My precious, Good Ruck</h2>
+                <h2>Good Ruck</h2>
                 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPwI3zMjjMMc_cP5aWzWPG4EUvm4HNlyq_PA&usqp=CAU" alt="">
             </div>
             <div class="show"></div>
