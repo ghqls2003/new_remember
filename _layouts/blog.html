@@ -16,7 +16,7 @@
     {% endif %}
 </head>
 
-<body>
+<body oncontextmenu="return false" ondragstart="return false" onselect="return false">
     {% if site.google_tag_manager %}
         {% include common/gtm-body.html %}
     {% endif %}
