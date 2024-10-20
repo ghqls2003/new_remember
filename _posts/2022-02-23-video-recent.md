@@ -55,3 +55,8 @@ redirect_from:
 2022년 3월 대구대 라이딩
 ~~~
 <iframe width="726" height="408" src="https://www.youtube.com/embed/cfeCpMptLGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+~~~
+2023년 4월 가산 글램핑
+~~~
+<iframe width="726" height="408" src="https://www.youtube.com/watch?v=G-8JJE99pks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
