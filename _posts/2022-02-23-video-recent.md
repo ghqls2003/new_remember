@@ -59,4 +59,4 @@ redirect_from:
 ~~~
 2023년 4월 가산 글램핑
 ~~~
-<iframe width="726" height="408" src="https://www.youtube.com/watch?v=G-8JJE99pks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G-8JJE99pks?si=h19r8ketsnQ6S9Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
