@@ -5,7 +5,7 @@ description: "after 2016 Video"
 categories: [video]
 tags: [video, after2016_Video]
 redirect_from:
-  - /2022/02/23/
+  - /2025/07/03/
 ---
 
 > After 2016 seq Video, Estimated Year.
@@ -56,7 +56,16 @@ redirect_from:
 ~~~
 <iframe width="726" height="408" src="https://www.youtube.com/embed/cfeCpMptLGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+# 2023
+
 ~~~
 2023년 4월 가산 글램핑
 ~~~
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G-8JJE99pks?si=h19r8ketsnQ6S9Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+# 2025
+
+~~~
+2025년 6월 후쿠오카 여행
+~~~
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMpzB8O8fG0?si=6RjcQa3EjpgJszcx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
